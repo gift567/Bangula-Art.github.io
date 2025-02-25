@@ -91,6 +91,8 @@ body {
 
 .text_center {
   text-align: center;
+  line-height: 2rem;
+
 }
 
 /*header section*/
@@ -456,6 +458,7 @@ a:focus {
 
 .about_section .detail-box p {
   margin-top: 15px;
+  text-align: center;
 }
 
 .about_section .detail-box a {
